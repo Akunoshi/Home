@@ -20,4 +20,4 @@ Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 We aren't responsible for any errors or bugs or for any other damage to your'e computer.
-Akunoshi© Team
+©Akunoshi Team
